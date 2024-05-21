@@ -15,3 +15,8 @@ We can pick one of the relevant books or part of it and start a journey. We will
 
 Please [reach out](https://scicloj.github.io/docs/community/contact/).
 
+## List of books
+
+| Name | Author | License | Comments | Translation status |
+|------|--------|---------|----------|--------------------|
+|      |        |         |          |                    |
