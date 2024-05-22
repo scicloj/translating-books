@@ -15,18 +15,24 @@ We can pick one of the relevant books or part of it and start a journey. We will
 
 Please [reach out](https://scicloj.github.io/docs/community/contact/).
 
+## Licenses
+
+Various licenses of books' text and code determint the ways we may use them as inspiration for Clojure books.
+
+- [MIT](https://opensource.org/license/mit) - just fine
+- [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) - no derivatives allowed
+
 ## List of books
 
-| Name | Author | License | Comments | Translation status |
-|------|--------|---------|----------|--------------------|
-|      |        |         |          |                    |
+| Book                                                                                 | Authors                                                      | Source                                                                                    | License                            | Comments                                | Translation status                                                                                                                                                                                                                        |
+|--------------------------------------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) | Jake VanderPlas                                              | [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) | text - CC BY-NC-ND 3.0; code - MIT |                                         | started at [scicloj-data-science-handbook](https://github.com/scicloj/scicloj-data-science-handbook/) (2021), restarted at [python-data-science-handbook-in-clojure](https://github.com/scicloj/python-data-science-handbook-in-clojure/) |
+| [R for Data Science 1st ed.](https://r4ds.had.co.nz/)                                | Hadley Wickham and Garrett Grolemund                         |                                                                                           | CC BY-NC-ND 3.0                    |                                         | started some drafts in the past                                                                                                                                                                                                           |
+| [R for Data Science 2nd ed.](https://r4ds.hadley.nz/)                                | Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund |                                                                                           | CC BY-NC-ND 3.0                    | permission from the authors & publisher |                                                                                                                                                                                                                                           |
+
+
 
 ## Proposals for the list
-
-
-* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas - MIT license - some parts have been converted to Clojure ([scicloj-data-science-handbook](https://github.com/scicloj/scicloj-data-science-handbook)) and might be worth refreshing
-
-* [R for Data Science](https://r4ds.had.co.nz/) or [its 2ed](https://r4ds.hadley.nz/) - the Creative Commons license [is a bit limiting](https://creativecommons.org/licenses/by-nc-nd/3.0/us/), but we did get permission to convert it to Clojure by the publisher and authors.
 
 * [Introduction to Statistical Learning](https://www.statlearning.com/) - R examples and case studies, but GPL license; [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) by the same group.
 
