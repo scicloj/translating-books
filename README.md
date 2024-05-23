@@ -1,7 +1,7 @@
 *“One way to learn a lot of mathematics is by reading the first chapters of many books.”* -- Paul R. Halmos
 
 # translating-books
-a list of books that we wish to translate to Clojure
+In this project, we maintain a list of books that we wish to translate to Clojure, mostly around data and science.
 
 ## Background
 A few of us at [Scicloj](https://scicloj.github.io/) have have started looking into translating books again.
