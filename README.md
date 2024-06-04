@@ -19,7 +19,7 @@ Please [reach out](https://scicloj.github.io/docs/community/contact/).
 
 ## Licenses
 
-Various licenses of books' text and code determint the ways we may use them as inspiration for Clojure books.
+Various licenses of books' text and code determine the ways we may use them as inspiration for Clojure books.
 
 - [MIT](https://opensource.org/license/mit) - just fine
 - [CA BY-SA 3.0 DEED](https://creativecommons.org/licenses/by-sa/3.0/deed.en) - free to adapt
